@@ -47,7 +47,6 @@ img{
 }
 .buttons{
     color: hsl(0, 0%, 100%);
-    list-style-type: none;
     width: 100%;
 }
 .buttons div{
